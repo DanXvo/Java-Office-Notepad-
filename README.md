@@ -18,27 +18,6 @@ iml file:
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
-```
-scroll class:
-''' java
 
-  import javax.swing.JScrollPane;
-  import javax.swing.JTextArea;
-
-  public class Scroll extends JScrollPane {
-      private String name;
-      private final JTextArea text;
-
-    public Scroll(JTextArea text, String name) {
-        super(text);
-        this.text = text;
-    }
-    public String getName(){
-        return name;
-    }
-    public String getText() {
-        return text.getText();
-    }
-}
-
-'''
+downloa project:
+[notepad](https://drive.google.com/uc?export=download&id=1C2Z6GOIffejrTSm-SAcNNNNgb0YlOwpQ)
