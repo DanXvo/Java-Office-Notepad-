@@ -22,12 +22,12 @@ iml file:
 scroll class:
 ''' java
 
-import javax.swing.JScrollPane;
-import javax.swing.JTextArea;
+  import javax.swing.JScrollPane;
+  import javax.swing.JTextArea;
 
-public class Scroll extends JScrollPane {
-    private String name;
-    private final JTextArea text;
+  public class Scroll extends JScrollPane {
+      private String name;
+      private final JTextArea text;
 
     public Scroll(JTextArea text, String name) {
         super(text);
