@@ -22,4 +22,4 @@ iml file:
 ***
 downloa project:
 
-[notepad](https://drive.google.com/uc?export=download&id=1C2Z6GOIffejrTSm-SAcNNNNgb0YlOwpQ)
+[download notepad](https://drive.google.com/uc?export=download&id=1C2Z6GOIffejrTSm-SAcNNNNgb0YlOwpQ)
