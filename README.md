@@ -19,6 +19,12 @@ iml file:
   </component>
 </module>
 ```
+bat starter:
+```
+@echo off
+start notepad.exe
+pause >nul
+```
 ***
 downloa this app in the project:
 
