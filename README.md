@@ -20,7 +20,7 @@ iml file:
 </module>
 ```
 bat starter:
-```
+```batch
 @echo off
 start notepad.exe
 pause >nul
